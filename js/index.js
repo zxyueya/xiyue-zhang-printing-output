@@ -43,7 +43,7 @@ output = output + '\na *= b = ' + (a *= b);
 alert(output);
 
 // a /= b 
-output = output + '\n a /= b = ' + (a /= b);
+output = output + '\na /= b = ' + (a /= b);
 alert(output);
 
 // a %= b 

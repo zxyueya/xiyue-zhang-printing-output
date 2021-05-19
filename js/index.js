@@ -76,8 +76,8 @@ alert(output);
 
 
 //TASK 2
-let first_name = 'Xiyue';
+let first_name = 'Xiyue ';
 let last_name = 'Zhang';
 let email = 'zhan0722@algonquinlive.com';
-let output_task2 = 'My name is ' + first_name + ' ' + last_name + '. ' + 'You can contact me at ' + email + '.';
+let output_task2 = 'My name is ' + first_name + last_name + '. ' + 'You can contact me at ' + email + '.';
 console.log(output_task2);
